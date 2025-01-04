@@ -1,0 +1,6 @@
+[submodule "ancientcamp-contract"]
+	path = ancientcamp-contract
+	url = https://github.com/ShinichiCoder/ancientcamp-contract.git
+[submodule "ancient-camp"]
+	path = ancient-camp
+	url = https://github.com/devchronicleLazy/ancient-camp.git
