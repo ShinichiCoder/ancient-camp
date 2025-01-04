@@ -36,5 +36,3 @@ Mint NFT certificates for completed courses, showcasing your verified skills.
 - Learn blockchain technology in a structured, easy-to-follow format.
 - Gain real-world skills and showcase your achievements with verifiable NFT certificates.
 - Become part of a global community of blockchain enthusiasts.
-
-## Demo
